@@ -27,6 +27,7 @@
     </style>
 	</head>
 	<body>
+<h1><a href="http://zital-pi.no-ip.org/sarebide/">THIS PROJECT IS OUTDATED, CHECK SAREBIDE</a></h1>
     <div class="container">
         <h1 class="display-1">SareBide-Blockchain:</h1>
         <div class="row mb-3">
